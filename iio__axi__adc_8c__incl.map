@@ -1,0 +1,17 @@
+<map id="drivers/axi_core/iio_axi_adc/iio_axi_adc.c" name="drivers/axi_core/iio_axi_adc/iio_axi_adc.c">
+<area shape="rect" id="node1" title="Implementation of iio_axi_adc. This instantiates iio_axi_adc and iio_axi_dac devices,..." alt="" coords="265,5,432,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,92,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="140,319,211,345"/>
+<area shape="rect" id="node4" href="$error_8h.html" title="Error codes definition." alt="" coords="555,95,659,121"/>
+<area shape="rect" id="node6" href="$iio_8h.html" title="Header file of iio." alt="" coords="454,95,505,121"/>
+<area shape="rect" id="node12" href="$iio__axi__adc_8h.html" title="Header file of iio_axi_adc." alt="" coords="295,95,402,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="601,169,669,196"/>
+<area shape="rect" id="node7" href="$iio__types_8h.html" title="Header file for iio_types." alt="" coords="433,169,526,196"/>
+<area shape="rect" id="node11" href="$uart_8h.html" title="Header file of UART interface." alt="" coords="681,244,781,271"/>
+<area shape="rect" id="node8" title=" " alt="" coords="245,319,327,345"/>
+<area shape="rect" id="node9" title=" " alt="" coords="356,319,427,345"/>
+<area shape="rect" id="node10" href="$circular__buffer_8h.html" title="Circular buffer library header." alt="" coords="491,244,657,271"/>
+<area shape="rect" id="node13" href="$axi__adc__core_8h.html" title="Driver for the Analog Devices AXI&#45;ADC&#45;CORE module." alt="" coords="289,169,408,196"/>
+<area shape="rect" id="node15" href="$axi__dmac_8h.html" title="Driver for the Analog Devices AXI&#45;DMAC core." alt="" coords="168,169,265,196"/>
+<area shape="rect" id="node14" href="$util_8h.html" title="Implementation of utility functions." alt="" coords="168,244,263,271"/>
+</map>

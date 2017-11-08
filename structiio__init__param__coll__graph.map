@@ -1,0 +1,10 @@
+<map id="iio_init_param" name="iio_init_param">
+<area shape="rect" id="node1" title=" " alt="" coords="40,380,155,407"/>
+<area shape="rect" id="node2" href="$structuart__desc.html" title="Stucture holding the UART descriptor." alt="" coords="5,291,91,317"/>
+<area shape="rect" id="node3" href="$structiio__device__init.html" title=" " alt="" coords="115,291,231,317"/>
+<area shape="rect" id="node4" href="$structiio__device.html" title="Structure holding channels and attributes of a device." alt="" coords="129,201,217,228"/>
+<area shape="rect" id="node5" href="$structiio__channel.html" title="Struct describing the scan type." alt="" coords="252,103,348,130"/>
+<area shape="rect" id="node6" href="$structiio__attribute.html" title="Structure holding pointers to show and store functions." alt="" coords="103,5,204,32"/>
+<area shape="rect" id="node7" href="$structiio__chan__type.html" title="IIO channel types." alt="" coords="233,5,345,32"/>
+<area shape="rect" id="node8" href="$structscan__type.html" title=" " alt="" coords="369,5,457,32"/>
+</map>
